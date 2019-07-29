@@ -25,7 +25,7 @@ You can [deploy Hebra to Netlify with one click][deploy-to-netlify] and you’ll
 
 ### Method two: Clone / Fork
 
-1. Clone or fork this repo: `git clone https://github.com/andybelldesign/herbra`
+1. Clone or fork this repo: `git clone https://github.com/andybelldesign/hebra`
 2. `cd` into the project directory and run `npm install`
 3. Once all the dependencies are installed run `npm start`
 4. Open your browser at `http://localhost:8080` and away you go!
